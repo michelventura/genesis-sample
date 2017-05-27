@@ -1,0 +1,30 @@
+/*!
+  Theme Name: Genesis Sample Mich
+  Theme URI: https://michelventura.com/genesis-sample
+
+  Description: Genesis Starter theme for custom development
+  Author: michelventura
+  Author URI: https://michelventura.com
+
+  Version: 1.0.0
+
+  Template: genesis
+  Template Version: 2.2.5
+
+  License: GPL-2.0+
+  License URI: http://www.opensource.org/licenses/gpl-license.php
+  Text Domain: genesis-sample
+*/
+
+@import 'bourbon';
+@import 'neat';
+@import '../../node_modules/sass-rem/rem';
+@import 'utilities/index';
+@import 'base/index';
+@import 'layouts/index';
+@import 'components/index';
+@import 'plugins/index';
+@import 'views/index';
+//@import 'custom/shame';
+
+
